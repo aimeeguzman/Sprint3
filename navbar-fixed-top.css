@@ -1,0 +1,221 @@
+body {
+  min-height: 2000px;
+  padding-top: 70px;
+}
+
+.jumbotron {
+	background-image: url('images/bed.jpg');
+	height: 350px;
+  background-repeat: none;
+  padding-bottom: 0px;
+}
+
+.color-bar {
+  background-color: #DBD5D3;
+  width: 100%;
+  height: 100px;
+}
+
+.well {
+    min-height: 20px;
+    padding: 19px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: #f5f5f5;
+    border: 1px solid #5bc0de;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.05);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.05);
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #4E422D;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+    color: #5bc0de;
+}
+
+.btn-default {
+    color: #333;
+    background-color: #fff;
+    border-color: #ccc;
+}
+
+.btn-default, .btn-default:hover, .btn-default:focus {
+    color: #fff;
+    border: 1px solid #fff;
+    text-decoration: none;
+    background-color: #5bc0de;
+}
+
+.about-btn {
+    width: 25%;
+    margin-top: 5px;
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: .1em;
+    line-height: 1.42857143;
+    text-align: left;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+}
+
+.btn {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: .1em;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+
+.fa .fa-caret-square-o-down {
+  text-align: right;
+}
+
+.alert-success {
+    color: #4E422D;
+    background-color: #91EDA3;
+    border: 0px;
+    text-align: center;
+}
+
+.jumbotron h1 {
+	font-size: 40px;
+	color: #5bc0de;
+	padding-top: 50px;
+}
+
+.jumbotron p {
+    margin-bottom: 15px;
+    font-size: 21px;
+    font-weight: 200;
+    color: #4E422D;
+    font-family: 'Helvetica Neue', sans-serif;
+}
+
+h1 {
+  font-family: 'Helvetica Neue', sans-serif;
+  color: #fff;
+  font-size: 30px;
+}
+
+h2 h3 {
+	font-family: 'Helvetica Neue', sans-serif;
+}
+
+body {
+    font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+
+.navbar .navbar-default .navbar-fixed-top {
+  padding-right: 0;
+  padding-left: 0;
+  font-size: 16px;
+  font-weight: bold;
+  color: #fff; /* IE8 proofing */
+  color: #4E422D;
+  text-decoration: none;
+  font-family: 'Helvetica Neue', sans-serif;
+}
+
+li  {
+  padding-right: 0;
+  padding-left: 0;
+  font-size: 16px;
+  font-weight: bold;
+  color: #fff; /* IE8 proofing */
+  color: #4E422D;
+  text-decoration: none;
+  font-family: 'Helvetica Neue', sans-serif;
+}
+
+legend {
+    display: block;
+    width: 100%;
+    padding: 0;
+    margin-bottom: 20px;
+    font-size: 21px;
+    line-height: inherit;
+    color: #4E422D;
+    border: 0;
+    border-bottom: 1px solid #e5e5e5;
+    text-align: center;
+    font-family: 'Helvetica Neue', sans-serif;
+}
+
+.small, small {
+    font-size: 85%;
+    text-align: center;
+}
+
+img {
+	padding: 5px;
+}
+
+.pic {
+  /*position: relative;
+  left: 0px;
+  top: 100px;*/
+  /*z-index: 20;*/
+}
+
+.color-bar {
+  background-color: #626363;
+  position: relative;
+  /*z-index: -5;*/
+}
+
+.design-style {
+  background-color: #e5e5e5;
+  text-align: center;
+}
+
+.personal-info {
+  background-color: #fff;
+}
+
+li {
+  display: inline-block;
+  padding: 10px;
+}
+
+.design-style {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.carousel slide multi-item-carousel {
+  width: 100%;
+}
+
+#theCarousel {
+  width: 100%;
+}
